@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1791385433997,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion",
+    "content": "Exploring quiet brutalism in coastal environments with sustainably sourced cedar and monolithic limestone geometry.",
+    "author": "Phung Anh Luc",
+    "category": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-07T15:03:53.997Z",
+    "comments": []
+  },
+  {
+    "id": 1791385409062,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion",
+    "content": "Exploring quiet brutalism in coastal environments with sustainably sourced cedar and monolithic limestone geometry.",
+    "author": "Phung Anh Luc",
+    "category": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-07T15:03:29.062Z",
+    "comments": []
+  },
+  {
+    "id": 1791384829595,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion",
+    "content": "Exploring quiet brutalism in coastal environments with sustainably sourced cedar and monolithic limestone geometry.",
+    "author": "Phung Anh Luc",
+    "category": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-07T14:53:49.595Z",
+    "comments": []
+  },
+  {
+    "id": 1791384781967,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion",
+    "content": "Exploring quiet brutalism in coastal environments with sustainably sourced cedar and monolithic limestone geometry.",
+    "author": "Phung Anh Luc",
+    "category": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-07T14:53:01.967Z",
+    "comments": []
+  },
+  {
+    "id": 1791384254026,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion",
+    "content": "Exploring quiet brutalism in coastal environments with sustainably sourced cedar and monolithic limestone geometry.",
+    "author": "Phung Anh Luc",
+    "category": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-07T14:44:14.026Z",
+    "comments": []
+  },
+  {
+    "id": 1,
+    "title": "Spatial Rhythm: Nordic Timber Pavilion (Updated Edition)",
+    "content": "Updated perspective on interior timber warmth and acoustic spatial resonance.",
+    "author": "Phung Anh Luc",
+    "category": "Interior Design",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-01T08:30:00.000Z",
+    "comments": [
+      {
+        "id": 102,
+        "author": "Marcus Vane",
+        "content": "Incredible perspective. Reminds me of coastal retreats in Bergen.",
+        "createdAt": "2026-10-02T14:20:00.000Z"
+      },
+      {
+        "id": 1791384254333,
+        "author": "Kengo Kuma Fan",
+        "content": "Fascinating balance between wooden louvers and natural light!",
+        "createdAt": "2026-10-07T14:44:14.333Z"
+      },
+      {
+        "id": 1791384782216,
+        "author": "Kengo Kuma Fan",
+        "content": "Fascinating balance between wooden louvers and natural light!",
+        "createdAt": "2026-10-07T14:53:02.216Z"
+      },
+      {
+        "id": 1791384829878,
+        "author": "Kengo Kuma Fan",
+        "content": "Fascinating balance between wooden louvers and natural light!",
+        "createdAt": "2026-10-07T14:53:49.878Z"
+      },
+      {
+        "id": 1791385434299,
+        "author": "Kengo Kuma Fan",
+        "content": "Fascinating balance between wooden louvers and natural light!",
+        "createdAt": "2026-10-07T15:03:54.299Z"
+      }
+    ],
+    "updatedAt": "2026-10-07T15:07:06.550Z"
+  },
+  {
+    "id": 2,
+    "title": "Warm Minimalism & Earth Palettes",
+    "content": "Shifting from stark clinical white to terracotta, sand dunes, and espresso textures. How interior proportions create emotional resonance and timeless quiet luxury.",
+    "author": "Sofia Chen",
+    "category": "Interior",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "createdAt": "2026-10-03T11:00:00.000Z",
+    "comments": [
+      {
+        "id": 103,
+        "author": "Julian Beck",
+        "content": "Warm minimalism is definitely the aesthetic of the decade. Great read!",
+        "createdAt": "2026-10-03T16:45:00.000Z"
+      }
+    ]
+  }
+]
